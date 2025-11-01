@@ -8,7 +8,7 @@ You can download the dataset in `.zip` format. The dataset contains two subsets:
 
 **Directory structure:**
 ```text
-Detection_ICS
+
 └── datasets2class
     ├── 0-notarget
     ├── 1-poorquality
@@ -72,6 +72,7 @@ Each folder contains test strip images collected at the specified concentration 
 ## 3. Citation and Author
 
 **Author:** Qingyue Wang  
-**Date:** October 31, 2025  
+**Date:** November 01, 2025  
 
-**Dataset Name:** Detection_ICS
+**Dataset Name:** A dataset for classification and quantitative analysis of immunochromatographic test strips
+
