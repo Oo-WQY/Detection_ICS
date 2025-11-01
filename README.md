@@ -1,9 +1,10 @@
 # Detection_ICS Dataset
 
-The **Detection_ICS** dataset contains two subsets designed for automated immunochromatographic test strip (ICS) analysis:
+The Detection_ICS dataset is openly available on Zenodo: [https://zenodo.org/records/17499600](https://zenodo.org/records/17499600)
 
-1. **Classification Dataset**  
-2. **Quantitative Regression Dataset**
+You can download the dataset in `.zip` format. The dataset contains two subsets:
+1. **Classification dataset** (`datasets2class`)  
+2. **Quantitative regression dataset** (`datasets2quantiy`)
 
 **Directory structure:**
 ```text
@@ -72,4 +73,5 @@ Each folder contains test strip images collected at the specified concentration 
 
 **Author:** Qingyue Wang  
 **Date:** October 31, 2025  
+
 **Dataset Name:** Detection_ICS
